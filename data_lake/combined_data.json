@@ -1,0 +1,46 @@
+{
+    "scraped_data": [
+        {
+            "title": "PSF Grants: Program & Charter Updates (Part 2)",
+            "link": "https://pyfound.blogspot.com/2024/12/psf-grants-program-charter-updates-part-2.html"
+        },
+        {
+            "title": "PSF Grants: Program & Charter Updates (Part 3)",
+            "link": "https://pyfound.blogspot.com/2024/12/12psf-grants-program-charter-updates-part-3.html"
+        },
+        {
+            "title": "PSF Grants: Program & Charter Updates (TLDR)",
+            "link": "https://pyfound.blogspot.com/2024/12/psf-grants-program-charter-updates-tldr.html"
+        },
+        {
+            "title": "Announcing Python Software Foundation Fellow Members for Q3 2024! \ud83c\udf89",
+            "link": "https://pyfound.blogspot.com/2024/12/announcing-python-software-foundation.html"
+        },
+        {
+            "title": "Python 3.14.0 alpha 3 is out",
+            "link": "https://pythoninsider.blogspot.com/2024/12/python-3140-alpha-3-is-out.html"
+        }
+    ],
+    "api_data": [
+        {
+            "name": "truth",
+            "url": "https://github.com/google/truth"
+        },
+        {
+            "name": "ruby-openid-apps-discovery",
+            "url": "https://github.com/google/ruby-openid-apps-discovery"
+        },
+        {
+            "name": "autoparse",
+            "url": "https://github.com/google/autoparse"
+        },
+        {
+            "name": "anvil-build",
+            "url": "https://github.com/google/anvil-build"
+        },
+        {
+            "name": "googletv-android-samples",
+            "url": "https://github.com/google/googletv-android-samples"
+        }
+    ]
+}
